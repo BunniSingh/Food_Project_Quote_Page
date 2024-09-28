@@ -1,0 +1,22 @@
+
+
+.quote-card{
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    max-width: 90%;
+    margin: auto;
+    margin-bottom: 3rem;
+    background-color: #1f2937;
+    color: #ffffff;
+    font-size: 1.5rem;
+}
+
+.author{
+    margin-top: 10px;
+}
+
+.bold{
+    font-weight: bold;
+    color: #6356f3;
+}
